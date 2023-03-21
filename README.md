@@ -1,4 +1,4 @@
-Description as from Kaggle:
+About this dataset as from Kaggle:
 
 Age : Age of the patient
 
