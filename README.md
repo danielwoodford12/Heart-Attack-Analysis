@@ -1,4 +1,3 @@
-/// 
 Description as from Kaggle:
 
 Age : Age of the patient
@@ -29,4 +28,4 @@ Value 2: showing probable or definite left ventricular hypertrophy by Estes' cri
 thalach : maximum heart rate achieved
 
 target : 0= less chance of heart attack 1= more chance of heart attack 
-///
+
